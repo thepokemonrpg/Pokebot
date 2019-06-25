@@ -9,7 +9,7 @@ import net.dv8tion.jda.api.JDABuilder;
 public class Main 
 {
     public static void main( String[] args ) throws Exception {
-        JDA jda = new JDABuilder("NTkyODA5ODIxNTI3MzQzMTE0.XREvNA.vkPpxL_wBgcu3rUFWsIPHKIHQbE").build();
+        JDA jda = new JDABuilder("NTkyODA5ODIxNTI3MzQzMTE0.XRIdlg.TEkV9tsPfJlF_GNCVRcU7VXZk50").build();
         
         jda.addEventListener(new InfoEvent());
     }
